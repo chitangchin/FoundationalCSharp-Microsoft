@@ -1,0 +1,14 @@
+C:\Users\brandon\CsharpProjects\CalculateStudentGrade\obj\Debug\net7.0\CalculateStudentGrade.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brandon\CsharpProjects\CalculateStudentGrade\obj\Debug\net7.0\CalculateStudentGrade.AssemblyInfoInputs.cache
+C:\Users\brandon\CsharpProjects\CalculateStudentGrade\obj\Debug\net7.0\CalculateStudentGrade.AssemblyInfo.cs
+C:\Users\brandon\CsharpProjects\CalculateStudentGrade\obj\Debug\net7.0\CalculateStudentGrade.csproj.CoreCompileInputs.cache
+C:\Users\brandon\CsharpProjects\CalculateStudentGrade\bin\Debug\net7.0\CalculateStudentGrade.exe
+C:\Users\brandon\CsharpProjects\CalculateStudentGrade\bin\Debug\net7.0\CalculateStudentGrade.deps.json
+C:\Users\brandon\CsharpProjects\CalculateStudentGrade\bin\Debug\net7.0\CalculateStudentGrade.runtimeconfig.json
+C:\Users\brandon\CsharpProjects\CalculateStudentGrade\bin\Debug\net7.0\CalculateStudentGrade.dll
+C:\Users\brandon\CsharpProjects\CalculateStudentGrade\bin\Debug\net7.0\CalculateStudentGrade.pdb
+C:\Users\brandon\CsharpProjects\CalculateStudentGrade\obj\Debug\net7.0\CalculateStudentGrade.dll
+C:\Users\brandon\CsharpProjects\CalculateStudentGrade\obj\Debug\net7.0\refint\CalculateStudentGrade.dll
+C:\Users\brandon\CsharpProjects\CalculateStudentGrade\obj\Debug\net7.0\CalculateStudentGrade.pdb
+C:\Users\brandon\CsharpProjects\CalculateStudentGrade\obj\Debug\net7.0\CalculateStudentGrade.genruntimeconfig.cache
+C:\Users\brandon\CsharpProjects\CalculateStudentGrade\obj\Debug\net7.0\ref\CalculateStudentGrade.dll
